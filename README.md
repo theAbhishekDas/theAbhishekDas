@@ -160,13 +160,12 @@ Data Visualization Tools</h2>
 <h1 align="center" font-color="blue"> <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"> MY STREAK <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"></h1>
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtheabhishekdas&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theAbhishekDas&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
 <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtheabhishekdas&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=theAbhishekDas&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
 <br>
 <br>
-
