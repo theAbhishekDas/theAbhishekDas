@@ -55,7 +55,7 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
         <br />
         <h2 align="left" font-color="blue"> <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" width="35"> WE CAN TALK WITH </h2>
         
-<a href="mailto:theabhishekdas279@gmail.com">
+<a href="mailto:omnamahshivaya.abhishekdas@gmail.com">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://twitter.com/Abhishe06817605">
