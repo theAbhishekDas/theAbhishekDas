@@ -166,7 +166,6 @@ Data Visualization Tools</h2>
 <br>
 <a href="#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=theAbhishekDas&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
-        <img src="https://raw.githubusercontent.com/theAbhishekDas/theAbhishekDas/output/snake.svg" alt="Snake animation" />
     </a>
 <br>
 <br>
