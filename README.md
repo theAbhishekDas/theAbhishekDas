@@ -49,8 +49,9 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
 🔭 I’m currently working on VasisTree
 <br>🤝 I’m looking for help with Data Analyst Project<br>🌱 I’m currently learning Looker, D3F.js<br>💬 Ask me about Advance Excel, Python , SQL, PowerBI<br>⚡ Fun facts Did you know that the world's largest rubber duck is taller than the Statue of Liberty? Talk about quacking big egos!
 <br/>
-<a href="https://theabhishekdas.netlify.app/">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+<br/>
+<a href="https://portfolio-abhishek-das.netlify.app/" target="blank"><img align="center" src="https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/favicon.ico" alt="supunnanayakkara" height="35" width="35" /></a>
+       👈 My Portfolio
         <br/>
         <br />
         <h2 align="left" font-color="blue"> <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" width="35"> WE CAN TALK WITH </h2>
@@ -60,6 +61,8 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
 </a>
 <a href="https://twitter.com/Abhishe06817605">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>
+<a href="https://portfolio-abhishek-das.netlify.app/" target="blank"><img align="center" src="https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/favicon.ico" alt="supunnanayakkara" height="28" width="28" />
 </a>
 <a href="https://www.linkedin.com/in/iamtheabhishekdas/">
   <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
